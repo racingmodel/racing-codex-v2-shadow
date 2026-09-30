@@ -1,0 +1,30 @@
+{
+  "cycle_id": "cycle_4c5d1df6c0280f44650fcfd3",
+  "generated_at_utc": "2026-09-30T10:09:38.859553+00:00",
+  "races_analysed": 35,
+  "races_analysed_this_cycle": 35,
+  "racing_date": "2026-09-30",
+  "research_evidence": {
+    "availability": "AVAILABLE",
+    "captured_races": 63,
+    "captured_runners": 634,
+    "complete_labelled_place_books": 0,
+    "complete_labelled_win_books": 22,
+    "complete_labelled_win_runners": 211,
+    "days": 2,
+    "discipline_races": {
+      "aw": 4,
+      "flat_turf": 47,
+      "jumps": 12
+    },
+    "gates": {
+      "broad_optimisation": "NOT READY",
+      "calibration": "NOT READY",
+      "component_research": "NOT READY",
+      "initial_diagnostics": "NOT READY"
+    },
+    "unresolved_runner_labels": 415
+  },
+  "runners": 360,
+  "schema_version": 1
+}

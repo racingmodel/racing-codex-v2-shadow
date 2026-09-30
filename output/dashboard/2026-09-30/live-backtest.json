@@ -1,0 +1,91 @@
+{
+  "cycle_id": "cycle_4c5d1df6c0280f44650fcfd3",
+  "generated_at_utc": "2026-09-30T10:09:38.859553+00:00",
+  "racing_date": "2026-09-30",
+  "schema_version": 1,
+  "summary": {
+    "activated": true,
+    "activated_at_utc": "2026-09-20T15:51:30.198669+00:00",
+    "activation_metadata": {
+      "code_commit": "5137d73045774b11eda41ad86af0fdb15a73ebe3",
+      "model_configuration_identity": "d69ee4aab41c3a737e6c1636e2fa71afb2deb1593d06eeab92685c7dbd6a723b",
+      "package_version": "0.9.0",
+      "policy_identity": "2026.09.06-p4.23-elo-four-area-overlap:8dbf4bee7c5640c2eab4bc82a02f7e1a21ccbb271e90ad58cf0b41ac2d1294a0",
+      "racing_date": "2026-09-20",
+      "schema_versions": {
+        "advice": 2,
+        "configuration": 1,
+        "history": 7,
+        "manifest": 1,
+        "observation_store": 1,
+        "operations": 1
+      }
+    },
+    "groups": {
+      "course": {
+        "Dundalk": {
+          "profit_loss": 0.0,
+          "returns": 0.0,
+          "selections": 1,
+          "settled": 0,
+          "stake": 0.0
+        }
+      },
+      "decision_type": {
+        "EACH_WAY": {
+          "profit_loss": 0.0,
+          "returns": 0.0,
+          "selections": 1,
+          "settled": 0,
+          "stake": 0.0
+        }
+      },
+      "price_band": {
+        "11+": {
+          "profit_loss": 0.0,
+          "returns": 0.0,
+          "selections": 1,
+          "settled": 0,
+          "stake": 0.0
+        }
+      },
+      "race_type": {
+        "all_weather_flat": {
+          "profit_loss": 0.0,
+          "returns": 0.0,
+          "selections": 1,
+          "settled": 0,
+          "stake": 0.0
+        }
+      },
+      "underlying_route": {
+        "ELO E/W": {
+          "profit_loss": 0.0,
+          "returns": 0.0,
+          "selections": 1,
+          "settled": 0,
+          "stake": 0.0
+        }
+      }
+    },
+    "losses": 0,
+    "maximum_drawdown": 0.0,
+    "mode": "LIVE",
+    "peak": 0.0,
+    "pending": 1,
+    "place_rate": null,
+    "places": 0,
+    "profit_loss": 0,
+    "returns": 0,
+    "roi": null,
+    "running_profit_loss": [],
+    "selections": 1,
+    "settled": 0,
+    "small_sample_note": "group totals are descriptive; tiny samples are not promoted as signals",
+    "stake": 0,
+    "state": "ACTIVE",
+    "void": 0,
+    "win_strike_rate": null,
+    "wins": 0
+  }
+}

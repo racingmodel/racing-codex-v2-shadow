@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#06111d">
+  <meta name="description" content="Racing Codex V2 shadow racing dashboard">
+  <title>Racing Codex V2 — Shadow</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="app-header">
+    <a class="brand" href="#home" aria-label="Racing Codex V2 home">
+      <span class="brand-mark" aria-hidden="true">♞</span>
+      <span><strong>RACING CODEX <em>V2</em> <span class="shadow-badge">SHADOW</span></strong><small>Data. Models. Discipline. Results.</small></span>
+    </a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">Menu</button>
+    <nav id="primary-nav" class="primary-nav" aria-label="Primary navigation">
+      <details class="nav-group">
+        <summary>Today</summary>
+        <div class="nav-menu"><a href="#home" data-route="home">Decision Desk</a><a href="#best-bets" data-route="best-bets">Best Bets</a><a href="#close-calls" data-route="close-calls">Close Calls</a><a href="#was-value" data-route="was-value">Was Value Earlier</a></div>
+      </details>
+      <details class="nav-group">
+        <summary>Races</summary>
+        <div class="nav-menu"><a href="#racecards" data-route="racecards">Racecards</a><a href="#runners" data-route="runners">A–Z Horses</a><a href="#results" data-route="results">Results</a></div>
+      </details>
+      <details class="nav-group">
+        <summary>Betting</summary>
+        <div class="nav-menu"><a href="#live-backtest" data-route="live-backtest">Live Backtest</a><a href="#my-bets" data-route="my-bets">My Bets</a></div>
+      </details>
+      <details class="nav-group">
+        <summary>Model intelligence</summary>
+        <div class="nav-menu"><a href="#tony-watch" data-route="tony-watch">Tony Watch</a><a href="#revival-watch" data-route="revival-watch">Revival Watch</a><a href="#elo" data-route="elo">Horse ELO</a><a href="#rank-overlay" data-route="rank-overlay">Rank Overlay</a><a href="#forecast" data-route="forecast">Forecast / Tricast</a><a href="#top-rated-clear" data-route="top-rated-clear">Top Rated Clear</a></div>
+      </details>
+      <details class="nav-group">
+        <summary>System</summary>
+        <div class="nav-menu"><a href="#health" data-route="health">Data quality &amp; health</a><a href="#research" data-route="research">Research evidence</a></div>
+      </details>
+    </nav>
+    <div class="header-state">
+      <label for="racing-date">Racing date</label>
+      <input id="racing-date" type="date" aria-label="Choose racing date">
+      <span id="system-chip" class="status-chip neutral">Loading</span>
+    </div>
+  </header>
+
+  <div id="race-strip" class="race-strip" aria-label="Race navigation"></div>
+  <main id="main-content" tabindex="-1">
+    <noscript><div class="notice error">JavaScript is required to render the static V2 read models.</div></noscript>
+    <div id="app" aria-live="polite"></div>
+  </main>
+
+  <footer class="app-footer">
+    <div class="footer-brand"><span aria-hidden="true">♞</span> Racing Codex <em>V2</em></div>
+    <p>Discipline turns information into opportunity.</p>
+    <div><span>Phase 8A authoritative</span><span id="live-backtest-state">Live backtest state loading</span><span id="snapshot-time">Snapshot unavailable</span></div>
+  </footer>
+
+  <template id="loading-template">
+    <section class="loading-state" aria-busy="true">
+      <span class="spinner" aria-hidden="true"></span>
+      <h1>Loading racing snapshot</h1>
+      <p>Reading the authoritative V2 static artifacts.</p>
+    </section>
+  </template>
+
+  <script src="assets/runtime.js" defer></script>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,190 @@
+{
+  "cycle_id": "cycle_4c5d1df6c0280f44650fcfd3",
+  "generated_at_utc": "2026-09-30T10:09:38.859553+00:00",
+  "health": {
+    "analysis_decisions": {
+      "admitted_or_refreshed": 0,
+      "close_calls": 0,
+      "post_off_skipped": 0,
+      "race_failures": 10,
+      "races_analysed": 35,
+      "status": "DEGRADED",
+      "terminal_skipped": 6,
+      "warnings": [
+        "race_27a0e9e0ea04f16c1fd870a8: Unsafe historical identity for Olympiacos: unresolved_birth_year_or_name",
+        "race_dd213e8b810793769adfdbe0: Unsafe historical identity for Excuzio Joe: unresolved_birth_year_or_name",
+        "race_6efb1b7d523046b9af5af1f2: Unsafe historical identity for What's Enough: unresolved_birth_year_or_name",
+        "race_5a260e234db47b60e789e44a: Unsafe historical identity for What's Enough: unresolved_birth_year_or_name",
+        "race_dec4e0777e1e75f693c13cfc: Unsafe historical identity for Just Zain: unresolved_birth_year_or_name"
+      ]
+    },
+    "discover_today": {
+      "going_current": 51,
+      "going_meetings": 6,
+      "health": {
+        "GOING": {
+          "details": {
+            "coverage": "51/51",
+            "meeting_coverage": "6/6",
+            "missing_going": 0
+          },
+          "message": "Current going resolved for 51/51 race(s)",
+          "status": "ok"
+        },
+        "MANIFEST": {
+          "message": "RacingDay manifest is valid",
+          "status": "ok"
+        },
+        "SPORTING_LIFE_DISCOVERY": {
+          "message": "Discovered 6 UK/Irish meeting(s), 51 race(s)",
+          "status": "ok"
+        },
+        "SPORTING_LIFE_RACECARDS": {
+          "details": {
+            "coverage": "51/51"
+          },
+          "message": "Parsed 51/51 racecard(s)",
+          "status": "ok"
+        }
+      },
+      "meetings": 6,
+      "racecards_parsed": 51,
+      "races": 51,
+      "status": "SUCCESS"
+    },
+    "historical_freshness": {
+      "status": "SUCCESS"
+    },
+    "market": {
+      "bookmaker_changes": 281,
+      "bookmaker_quotes": 281,
+      "bookmaker_races": 32,
+      "health": {
+        "BETFAIR_AUTH": {
+          "message": "Read-only Betfair session is valid",
+          "status": "ok"
+        },
+        "BETFAIR_MAPPING": {
+          "details": {
+            "ambiguities": 0,
+            "coverage": "75/102"
+          },
+          "message": "Mapped 75/102 WIN/PLACE market slot(s)",
+          "status": "degraded"
+        },
+        "BETFAIR_QUOTES": {
+          "details": {
+            "changes": 739,
+            "coverage_quotes": 739,
+            "freshness_seconds": 30
+          },
+          "message": "Captured 739 runner quote(s); stored 739 changed observation(s)",
+          "status": "ok"
+        },
+        "SPORTING_LIFE_BOOKMAKER": {
+          "details": {
+            "changed_observations": 281,
+            "eligible_races": 51,
+            "failed_races": 0,
+            "missing_prices": 264,
+            "priced_races": 32,
+            "priced_runners": 281,
+            "unmatched_identities": 0
+          },
+          "message": "Captured 281 explicit Sky Bet runner price(s) across 32/51 pre-off race(s)",
+          "status": "degraded"
+        }
+      },
+      "mappings": 75,
+      "quote_changes": 739,
+      "quotes_observed": 739,
+      "status": "DEGRADED",
+      "warnings": [
+        "Betfair partially available; mapped quotes remain usable and unmapped runner routes remain unavailable"
+      ]
+    },
+    "operator_inbox": {
+      "status": "SUCCESS"
+    },
+    "prepare_tomorrow": {
+      "going_current": 44,
+      "going_meetings": 6,
+      "health": {
+        "GOING": {
+          "details": {
+            "coverage": "44/44",
+            "meeting_coverage": "6/6",
+            "missing_going": 0
+          },
+          "message": "Current going resolved for 44/44 race(s)",
+          "status": "ok"
+        },
+        "MANIFEST": {
+          "message": "RacingDay manifest is valid",
+          "status": "ok"
+        },
+        "SPORTING_LIFE_DISCOVERY": {
+          "message": "Discovered 6 UK/Irish meeting(s), 44 race(s)",
+          "status": "ok"
+        },
+        "SPORTING_LIFE_RACECARDS": {
+          "details": {
+            "coverage": "44/44"
+          },
+          "message": "Parsed 44/44 racecard(s)",
+          "status": "ok"
+        }
+      },
+      "meetings": 6,
+      "racecards_parsed": 44,
+      "races": 44,
+      "status": "SUCCESS"
+    },
+    "prospective_capture": {
+      "races_appended": 18,
+      "runners_appended": 150,
+      "status": "DEGRADED",
+      "warnings": [
+        "race_dca0796faff9fc4cd4767a0a: ValueError: Unsupported timezone: Europe/Dublin",
+        "race_98287350e9e15168d8120901: ValueError: Unsupported timezone: Europe/Dublin",
+        "race_a8ed6b2a728d399126e1afa1: ValueError: Unsupported timezone: Europe/Dublin",
+        "race_bc929207c784eaad05ca7739: ValueError: Unsupported timezone: Europe/Dublin",
+        "race_7929e0af2b9daf4718f802df: ValueError: Unsupported timezone: Europe/Dublin"
+      ]
+    },
+    "prospective_capture_recovery": {
+      "status": "SUCCESS"
+    },
+    "research_result_join": {
+      "status": "SUCCESS"
+    },
+    "results": {
+      "canonical_appended": 33,
+      "elo_materialization": {
+        "races_materialized": 19,
+        "status": "PARTIAL",
+        "withheld_count": 191
+      },
+      "failures": 1,
+      "observations": 40,
+      "races_checked": 11,
+      "status": "DEGRADED",
+      "warnings": [
+        "1 bounded result fetch(es) failed; retry remains scheduled",
+        "ELO materialization withheld 191 race(s); affected supporting evidence remains stale/withheld"
+      ]
+    },
+    "settlement": {
+      "evidence_insufficient": 0,
+      "pending": 0,
+      "settled": 0,
+      "status": "SUCCESS",
+      "void": 0
+    },
+    "validate": {
+      "status": "SUCCESS"
+    }
+  },
+  "racing_date": "2026-09-30",
+  "schema_version": 1
+}

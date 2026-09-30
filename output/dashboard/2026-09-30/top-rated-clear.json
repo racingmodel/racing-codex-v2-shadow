@@ -1,0 +1,567 @@
+{
+  "cycle_id": "cycle_4c5d1df6c0280f44650fcfd3",
+  "generated_at_utc": "2026-09-30T10:09:38.859553+00:00",
+  "items": [
+    {
+      "analysis_as_of_utc": "2026-09-30T08:14:47.282437+00:00",
+      "betfair_place_quote": null,
+      "betfair_win_quote": null,
+      "bookmaker_quote": {
+        "bookmaker": "SBG",
+        "bookmaker_name": "Sky Bet v2",
+        "decimal_odds": 2.25,
+        "each_way_available": true,
+        "fractional_odds": "5/4",
+        "fresh_until_utc": "2026-09-30T08:15:37.514529+00:00",
+        "number_of_places": 3,
+        "observed_at_utc": "2026-09-30T08:10:37.514529+00:00",
+        "place_fraction": 0.2,
+        "runner_status": "ACTIVE"
+      },
+      "context_overlay": {
+        "as_of": "2026-09-30T08:14:47.282437+00:00",
+        "bounded_adjustment_percent": 2.0402537595085044,
+        "context_overlay_coverage": 87.5,
+        "coverage_gate_applied": false,
+        "coverage_missing": [
+          "history_4_of_5"
+        ],
+        "families": [
+          {
+            "as_of": "2026-09-30T08:14:47.282437+00:00",
+            "contribution": 0.011823183759114703,
+            "family": "trip",
+            "qualifies": "positive",
+            "raw": {
+              "confidence": 0.6666666666666666,
+              "delta_furlongs": 0.3960955411255399,
+              "effective_distance_yards": 1752.329,
+              "optimum_yards": 1665.1879809523812,
+              "valid_runs": 4,
+              "width_yards": 440.0
+            },
+            "reason": "trip fit 0.980580 >= 0.86",
+            "source": "canonical prior history + V1 course profile",
+            "status": "available",
+            "value": 0.9805795939778675
+          },
+          {
+            "as_of": "2026-09-30T08:14:47.282437+00:00",
+            "contribution": 0.0,
+            "family": "pace",
+            "qualifies": "neutral",
+            "raw": {
+              "course_setup_fit": 0.325,
+              "known_runs": 3,
+              "pressure": 1.0162852065629842,
+              "race_expected_front_runners": 2.195176046176046,
+              "rates": {
+                "front": 0.0,
+                "held": 0.0,
+                "midfield": 0.0,
+                "prominent": 1.0
+              },
+              "setup_fit": -0.02958013030740304,
+              "style_confidence": 0.5
+            },
+            "reason": "V1 style confidence <0.55",
+            "source": "prior canonical comments",
+            "status": "insufficient_history",
+            "value": null
+          },
+          {
+            "as_of": "2026-09-30T08:14:47.282437+00:00",
+            "contribution": 0.008579353835970338,
+            "family": "fitness",
+            "qualifies": "positive",
+            "raw": {
+              "trainer_jockey_residual": 0.002828880455741151,
+              "trainer_jockey_runs": 151,
+              "trainer_layoff_residual": 0.026810480737407303,
+              "trainer_layoff_runs": 162,
+              "trainer_second_up_residual": -0.010197594518677813,
+              "trainer_second_up_runs": 454
+            },
+            "reason": "fresh-yard residual +0.026810, n=162",
+            "source": "canonical prior result/SP residuals",
+            "status": "available",
+            "value": 0.026810480737407303
+          },
+          {
+            "as_of": "2026-09-30T08:14:47.282437+00:00",
+            "contribution": 0.0,
+            "family": "connection",
+            "qualifies": "neutral",
+            "raw": {
+              "residual": 0.002828880455741151,
+              "runs": 151
+            },
+            "reason": "trainer/jockey residual gate not met",
+            "source": "canonical prior result/SP residuals",
+            "status": "available",
+            "value": 0.002828880455741151
+          },
+          {
+            "as_of": "2026-09-30T08:14:47.282437+00:00",
+            "contribution": 0.0,
+            "family": "trouble",
+            "qualifies": "neutral",
+            "raw": {
+              "finish_percentile": 0.6666666666666667,
+              "late_signal": -1.0,
+              "reliability": 1,
+              "run_at": "2026-09-02T17:40:00+00:00",
+              "style": "prominent"
+            },
+            "reason": "V1 trouble gate not met",
+            "source": "latest canonical prior run comments",
+            "status": "available",
+            "value": 0
+          }
+        ],
+        "negative_family_count": 0,
+        "positive_family_count": 2,
+        "raw_adjustment_percent": 2.0402537595085044
+      },
+      "course": "Bellewstown",
+      "decision_trace": {
+        "outcome": {
+          "action": "WATCH",
+          "policy_version": "2026.09.06-p4.23-elo-four-area-overlap",
+          "reason_codes": [
+            "no_active_route_qualified"
+          ],
+          "route": null,
+          "status": "REJECTED"
+        }
+      },
+      "horse": "Elusive Path",
+      "horse_id": "horse_e27b03f2ec4d1f3151c6fd32",
+      "market_quote": null,
+      "off_time_local": "14:05",
+      "p4": {
+        "composite_score": 543.2842138657448,
+        "ledger": [
+          {
+            "component": "suitability",
+            "contribution": 236.8668826180629,
+            "multiplier": null,
+            "stage": "base_categories",
+            "value": 0.568480518283351
+          },
+          {
+            "component": "raw",
+            "contribution": 108.88211270511783,
+            "multiplier": null,
+            "stage": "base_categories",
+            "value": 0.6532926762307069
+          },
+          {
+            "component": "form",
+            "contribution": 93.42857142857142,
+            "multiplier": null,
+            "stage": "base_categories",
+            "value": 0.436
+          },
+          {
+            "component": "connections",
+            "contribution": 39.26442863224472,
+            "multiplier": null,
+            "stage": "base_categories",
+            "value": 0.32982120051085567
+          },
+          {
+            "component": "recent_trend",
+            "contribution": 26.69100957946671,
+            "multiplier": 1.0527771450148184,
+            "stage": "adjustment",
+            "value": null
+          },
+          {
+            "component": "combined_active_adjustments",
+            "contribution": 19.769941429476432,
+            "multiplier": 1.040682197141314,
+            "stage": "adjustment",
+            "value": null
+          },
+          {
+            "component": "world_context",
+            "contribution": 10.862748954286303,
+            "multiplier": 1.0204025375950851,
+            "stage": "adjustment",
+            "value": null
+          },
+          {
+            "component": "market",
+            "contribution": 7.51851851851852,
+            "multiplier": null,
+            "stage": "base_categories",
+            "value": 0.09022222222222223
+          }
+        ],
+        "model_odds": 2.44,
+        "model_rank": 1,
+        "place_probability": 0.84775,
+        "raw_odds": 2.28,
+        "win_probability": 0.41061745
+      },
+      "race_id": "race_dca0796faff9fc4cd4767a0a",
+      "racecard": {
+        "age": 3,
+        "distance_yards": 1745,
+        "draw": 1,
+        "handicap": false,
+        "headgear": "Cheek pieces",
+        "horse": "Elusive Path",
+        "jockey": "Colin Keane",
+        "market_odds": 2.25,
+        "market_odds_source": "BOOKMAKER:SBG",
+        "number": 3,
+        "official_rating": 74,
+        "provider_horse_id": "1226721",
+        "provider_race_id": "941451",
+        "race_type": "flat",
+        "recent_form": "3235",
+        "status": "RUNNER",
+        "surface": "TURF",
+        "trainer": "G M Lyons",
+        "weight_lbs": 134
+      },
+      "runner_id": "runner_ab03193e0b4086a85fecc7d4",
+      "supporting_models": {
+        "as_of_utc": "2026-09-30T08:14:47.282437+00:00",
+        "atr": {
+          "alignment": "NOT_APPLICABLE",
+          "availability": "UNAVAILABLE",
+          "observation_id": null
+        },
+        "classic_elo": {
+          "availability": "AVAILABLE",
+          "confidence": 33.09,
+          "context": {
+            "class": {
+              "key": "unclassified",
+              "rating": 1535.178,
+              "reliability": 0.4444,
+              "runs": 4,
+              "shrunk_rating": 1539.468
+            },
+            "code": {
+              "key": "flat",
+              "rating": 1535.178,
+              "reliability": 0.5714,
+              "runs": 4,
+              "shrunk_rating": 1538.488
+            },
+            "course": {
+              "key": "bellewstown",
+              "rating": 1542.9,
+              "reliability": 0.0,
+              "runs": 0,
+              "shrunk_rating": 1542.9
+            },
+            "distance": {
+              "key": "mile",
+              "rating": 1535.178,
+              "reliability": 0.5,
+              "runs": 4,
+              "shrunk_rating": 1539.039
+            },
+            "global": 1542.9,
+            "global_runs": 4,
+            "going": {
+              "key": "soft_yielding",
+              "rating": 1527.187,
+              "reliability": 0.1667,
+              "runs": 1,
+              "shrunk_rating": 1540.282
+            },
+            "surface": {
+              "key": "turf",
+              "rating": 1535.178,
+              "reliability": 0.5,
+              "runs": 4,
+              "shrunk_rating": 1539.039
+            }
+          },
+          "edge_pp": -22.259,
+          "fair_odds": 7.0,
+          "freshness": {
+            "latest_canonical_result_date": "2026-09-02",
+            "rating_state_through": "2026-09-02",
+            "reason": null,
+            "status": "CURRENT"
+          },
+          "global_rating": 1542.9,
+          "last_change": 4.86,
+          "pre_race_rating": 1541.44,
+          "provenance": {
+            "event_count": 4,
+            "latest_race_at": "2026-09-12 18:20",
+            "path": "NOT_AVAILABLE",
+            "sha256": "33adb3f44650d3ada86e3dffb760f13fc0d338702ae1cf446c5f769c37c8bebe",
+            "state_source": "rating_book",
+            "version": "2026.08.22-classic-primary-positive-edge-v2.2"
+          },
+          "qualification": "DOES_NOT_QUALIFY",
+          "rank": 1,
+          "recent_change_3": 29.04,
+          "runs": 4,
+          "shortlist_ready_intrinsic": false,
+          "value_support": false,
+          "version": "2026.08.22-classic-primary-positive-edge-v2.2",
+          "win_probability": 0.14276032
+        },
+        "p5": {
+          "availability": "AVAILABLE",
+          "feature_missing_fraction": 0.50017414,
+          "horse": "Elusive Path",
+          "market_place4_prob": 0.91749685,
+          "model_version": "2026.09.05-p5.5-coherent-complete-fields",
+          "p5_confidence": 70.21869269,
+          "p5_finish_rank": 1.0,
+          "p5_place3_prob": 0.79824656,
+          "p5_place4_prob": 0.89865457,
+          "p5_place4_rank": 1.0,
+          "p5_place_rank": 1.0,
+          "p5_win_prob": 0.36534673,
+          "p5_win_rank": 1.0,
+          "role": "SHADOW"
+        },
+        "qve": {
+          "agreement_count": 0,
+          "alignment_state": "DISAGREES",
+          "availability": "AVAILABLE",
+          "available_participant_count": 2,
+          "non_participants": [
+            {
+              "alignment": "NOT_APPLICABLE",
+              "system": "P5"
+            },
+            {
+              "alignment": "NOT_APPLICABLE",
+              "system": "CLASSIC_ELO"
+            },
+            {
+              "alignment": "NOT_APPLICABLE",
+              "system": "WEIGHT_MARGIN_ELO"
+            },
+            {
+              "alignment": "NOT_APPLICABLE",
+              "system": "ATR"
+            }
+          ],
+          "participants": [
+            {
+              "alignment": "DISAGREES",
+              "availability": "AVAILABLE",
+              "detail": "calibrated P4 odds versus market",
+              "system": "P4_MODEL"
+            },
+            {
+              "alignment": "DISAGREES",
+              "availability": "AVAILABLE",
+              "detail": "raw P4 odds versus market",
+              "system": "P4_RAW"
+            },
+            {
+              "alignment": "UNAVAILABLE",
+              "availability": "UNAVAILABLE",
+              "detail": "xG requires at least two runs",
+              "system": "XG"
+            },
+            {
+              "alignment": "UNAVAILABLE",
+              "availability": "UNAVAILABLE",
+              "detail": "active threshold is 70",
+              "system": "LLM_STYLE"
+            }
+          ],
+          "qve_score": 0,
+          "strength": 0.0,
+          "v1": {
+            "agree_llm": false,
+            "agree_model": false,
+            "agree_raw": false,
+            "agree_xg": false,
+            "agreement_count": 0,
+            "agreement_label": "0/4 aligned",
+            "independent_agreement_count": 0,
+            "kelly_pct": 0.0,
+            "llm_score": 0.0,
+            "model_edge_pts": -3.46,
+            "raw_edge_pts": -0.58,
+            "steps": 0,
+            "x_runs": 0,
+            "xg_edge_pts": 0.0,
+            "xg_odds": "",
+            "xg_shadow_only": true
+          },
+          "version": "2026.09.13-phase7-v1-equivalent"
+        },
+        "weight_margin_elo": {
+          "availability": "AVAILABLE",
+          "confidence": 33.09,
+          "context": {
+            "class": {
+              "key": "unclassified",
+              "rating": 1535.357,
+              "reliability": 0.4444,
+              "runs": 4,
+              "shrunk_rating": 1539.669
+            },
+            "code": {
+              "key": "flat",
+              "rating": 1535.357,
+              "reliability": 0.5714,
+              "runs": 4,
+              "shrunk_rating": 1538.683
+            },
+            "course": {
+              "key": "bellewstown",
+              "rating": 1543.119,
+              "reliability": 0.0,
+              "runs": 0,
+              "shrunk_rating": 1543.119
+            },
+            "distance": {
+              "key": "mile",
+              "rating": 1535.357,
+              "reliability": 0.5,
+              "runs": 4,
+              "shrunk_rating": 1539.238
+            },
+            "global": 1543.119,
+            "global_runs": 4,
+            "going": {
+              "key": "soft_yielding",
+              "rating": 1527.422,
+              "reliability": 0.1667,
+              "runs": 1,
+              "shrunk_rating": 1540.502
+            },
+            "surface": {
+              "key": "turf",
+              "rating": 1535.357,
+              "reliability": 0.5,
+              "runs": 4,
+              "shrunk_rating": 1539.238
+            }
+          },
+          "fair_odds": 6.99,
+          "freshness": {
+            "latest_canonical_result_date": "2026-09-02",
+            "rating_state_through": "2026-09-02",
+            "reason": null,
+            "status": "CURRENT"
+          },
+          "global_rating": 1543.12,
+          "last_change": 5.07,
+          "margin_runs": 4,
+          "pre_race_rating": 1541.65,
+          "provenance": {
+            "event_count": 4,
+            "latest_race_at": "2026-09-12 18:20",
+            "path": "NOT_AVAILABLE",
+            "sha256": "33adb3f44650d3ada86e3dffb760f13fc0d338702ae1cf446c5f769c37c8bebe",
+            "state_section": "performance",
+            "version": "2026.08.22-classic-primary-positive-edge-v2.2"
+          },
+          "rank": 1,
+          "role": "SHADOW",
+          "version": "2026.08.13-weight-margin-elo-v2.0",
+          "win_probability": 0.14308275
+        }
+      },
+      "top_rated_clear": {
+        "action": "WATCH",
+        "checks": [
+          {
+            "actual": true,
+            "distance": null,
+            "name": "strict pre-race as-of",
+            "reason": "",
+            "requirement": "as_of_utc < off_at_utc",
+            "status": "PASS"
+          },
+          {
+            "actual": true,
+            "distance": null,
+            "name": "runner active",
+            "reason": "",
+            "requirement": "not a non-runner",
+            "status": "PASS"
+          },
+          {
+            "actual": 2.25,
+            "distance": null,
+            "name": "market price",
+            "reason": "",
+            "requirement": "decimal odds > 1",
+            "status": "PASS"
+          },
+          {
+            "actual": "BOOKMAKER:SBG",
+            "distance": null,
+            "name": "market price source",
+            "reason": "",
+            "requirement": "named source",
+            "status": "PASS"
+          },
+          {
+            "actual": 2.44,
+            "distance": null,
+            "name": "P4 model odds",
+            "reason": "",
+            "requirement": "decimal odds > 1",
+            "status": "PASS"
+          },
+          {
+            "actual": 2.28,
+            "distance": null,
+            "name": "P4 raw odds",
+            "reason": "",
+            "requirement": "decimal odds > 1",
+            "status": "PASS"
+          },
+          {
+            "actual": 1,
+            "distance": null,
+            "name": "model rank",
+            "reason": "",
+            "requirement": "== 1",
+            "status": "PASS"
+          },
+          {
+            "actual": 203.89089093329426,
+            "distance": 128.89089093329426,
+            "name": "top-rated score gap",
+            "reason": "",
+            "requirement": ">= 75",
+            "status": "PASS"
+          },
+          {
+            "actual": 87.5,
+            "distance": 7.5,
+            "name": "horse data coverage",
+            "reason": "",
+            "requirement": ">= 80",
+            "status": "PASS"
+          },
+          {
+            "actual": 83.333333,
+            "distance": 3.333332999999996,
+            "name": "race data confidence",
+            "reason": "",
+            "requirement": ">= 80",
+            "status": "PASS"
+          }
+        ],
+        "qualified": true,
+        "route": "Top Rated Clear"
+      }
+    }
+  ],
+  "racing_date": "2026-09-30",
+  "schema_version": 1
+}
