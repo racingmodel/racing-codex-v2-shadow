@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "racing_date": "2026-10-06",
+  "generated_at_utc": "2026-10-06T22:17:34.609968+00:00",
+  "events": [
+    {
+      "event_id": "79c32eb2-5b10-5c2c-822b-a2f1de669cb9",
+      "raised_at_utc": "2026-10-06T08:21:30.408978+00:00",
+      "event": "NEW WIN",
+      "race_time": "16:16",
+      "course": "Huntingdon",
+      "horse": "Delpotro",
+      "odds_or_result": "3.75"
+    },
+    {
+      "event_id": "7764d32c-aeb4-5670-970c-1d99b08efaa2",
+      "raised_at_utc": "2026-10-06T10:17:59.802821+00:00",
+      "event": "WAS VALUE",
+      "race_time": "16:16",
+      "course": "Huntingdon",
+      "horse": "Delpotro",
+      "odds_or_result": "3.75"
+    },
+    {
+      "event_id": "41dd1504-a7d5-537a-bce4-e1b30f85e1c1",
+      "raised_at_utc": "2026-10-06T15:37:27.441245+00:00",
+      "event": "RESULT",
+      "race_time": "16:16",
+      "course": "Huntingdon",
+      "horse": "Delpotro",
+      "odds_or_result": "LOST"
+    }
+  ]
+}
