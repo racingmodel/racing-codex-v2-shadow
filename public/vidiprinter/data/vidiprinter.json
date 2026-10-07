@@ -44,10 +44,19 @@
       "odds_or_result": "8.50",
       "race_time": "19:30",
       "raised_at_utc": "2026-10-07T12:15:10.879102+00:00"
+    },
+    {
+      "course": "Kempton",
+      "event": "WAS VALUE",
+      "event_id": "73e28cb4-7b98-55a5-850c-1dbf039627e0",
+      "horse": "Madman",
+      "odds_or_result": "8.50",
+      "race_time": "19:30",
+      "raised_at_utc": "2026-10-07T14:43:14.252143+00:00"
     }
   ],
-  "generated_at_utc": "2026-10-07T12:18:25.092490+00:00",
-  "published_at_utc": "2026-10-07T12:21:36.207954+00:00",
+  "generated_at_utc": "2026-10-07T15:13:11.325257+00:00",
+  "published_at_utc": "2026-10-07T15:20:48.992659+00:00",
   "racing_date": "2026-10-07",
   "schema_version": 1
 }
