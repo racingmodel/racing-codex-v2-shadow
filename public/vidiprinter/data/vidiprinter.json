@@ -1,34 +1,53 @@
 {
-  "schema_version": 1,
-  "racing_date": "2026-10-06",
-  "generated_at_utc": "2026-10-06T22:17:34.609968+00:00",
   "events": [
     {
-      "event_id": "79c32eb2-5b10-5c2c-822b-a2f1de669cb9",
-      "raised_at_utc": "2026-10-06T08:21:30.408978+00:00",
+      "course": "Nottingham",
+      "event": "CLOSE CALL",
+      "event_id": "adf408ef-5b60-5ff4-9eec-d1dfc24f0bb9",
+      "horse": "Orchard",
+      "odds_or_result": "21.00",
+      "race_time": "15:59",
+      "raised_at_utc": "2026-10-07T08:29:17.336562+00:00"
+    },
+    {
+      "course": "Navan",
+      "event": "NEW E/W",
+      "event_id": "7641259d-3a57-533b-a24f-d517130a1d2c",
+      "horse": "Albatala",
+      "odds_or_result": "17.00",
+      "race_time": "16:48",
+      "raised_at_utc": "2026-10-07T09:53:07.771210+00:00"
+    },
+    {
+      "course": "Kempton",
       "event": "NEW WIN",
-      "race_time": "16:16",
-      "course": "Huntingdon",
-      "horse": "Delpotro",
-      "odds_or_result": "3.75"
+      "event_id": "bb17b477-2384-5cb7-82f8-14f0f418b6af",
+      "horse": "Madman",
+      "odds_or_result": "8.50",
+      "race_time": "19:30",
+      "raised_at_utc": "2026-10-07T09:55:36.917601+00:00"
     },
     {
-      "event_id": "7764d32c-aeb4-5670-970c-1d99b08efaa2",
-      "raised_at_utc": "2026-10-06T10:17:59.802821+00:00",
+      "course": "Kempton",
       "event": "WAS VALUE",
-      "race_time": "16:16",
-      "course": "Huntingdon",
-      "horse": "Delpotro",
-      "odds_or_result": "3.75"
+      "event_id": "68655d84-6bcd-5ad9-94ae-12e3237e9c04",
+      "horse": "Madman",
+      "odds_or_result": "8.50",
+      "race_time": "19:30",
+      "raised_at_utc": "2026-10-07T10:56:44.163756+00:00"
     },
     {
-      "event_id": "41dd1504-a7d5-537a-bce4-e1b30f85e1c1",
-      "raised_at_utc": "2026-10-06T15:37:27.441245+00:00",
-      "event": "RESULT",
-      "race_time": "16:16",
-      "course": "Huntingdon",
-      "horse": "Delpotro",
-      "odds_or_result": "LOST"
+      "course": "Kempton",
+      "event": "UPDATED",
+      "event_id": "bfd3eb37-c1d2-5d7c-a5fa-fadeeb9c5b0d",
+      "horse": "Madman",
+      "odds_or_result": "8.50",
+      "race_time": "19:30",
+      "raised_at_utc": "2026-10-07T12:15:10.879102+00:00"
     }
-  ]
+  ],
+  "generated_at_utc": "2026-10-07T12:18:25.092490+00:00",
+  "published_at_utc": "2026-10-07T12:21:36.207954+00:00",
+  "racing_date": "2026-10-07",
+  "schema_version": 1
 }
