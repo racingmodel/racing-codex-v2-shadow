@@ -1,62 +1,107 @@
 {
   "events": [
     {
-      "course": "Nottingham",
-      "event": "CLOSE CALL",
-      "event_id": "adf408ef-5b60-5ff4-9eec-d1dfc24f0bb9",
-      "horse": "Orchard",
-      "odds_or_result": "21.00",
-      "race_time": "15:59",
-      "raised_at_utc": "2026-10-07T08:29:17.336562+00:00"
-    },
-    {
-      "course": "Navan",
-      "event": "NEW E/W",
-      "event_id": "7641259d-3a57-533b-a24f-d517130a1d2c",
-      "horse": "Albatala",
+      "course": "Bath",
+      "event": "V1 NEW E/W",
+      "event_id": "e73b6d76-7d97-5cd6-9798-a4294a3b2d75",
+      "horse": "She's Ideal",
       "odds_or_result": "17.00",
-      "race_time": "16:48",
-      "raised_at_utc": "2026-10-07T09:53:07.771210+00:00"
+      "race_time": "16:21",
+      "raised_at_utc": "2026-10-07T19:55:17+00:00"
     },
     {
-      "course": "Kempton",
+      "course": "Bath",
+      "event": "CLOSE CALL",
+      "event_id": "cb80d46a-529c-5fb2-8b92-89b1f5a5f050",
+      "horse": "Darkened Edge",
+      "odds_or_result": "17.00",
+      "race_time": "14:40",
+      "raised_at_utc": "2026-10-08T08:02:56.628553+00:00"
+    },
+    {
+      "course": "Bath",
+      "event": "NEW E/W",
+      "event_id": "2a77391c-0074-50ce-a50f-e8c4912391a6",
+      "horse": "Dojin",
+      "odds_or_result": "34.00",
+      "race_time": "15:15",
+      "raised_at_utc": "2026-10-08T08:04:40.042842+00:00"
+    },
+    {
+      "course": "Market Rasen",
       "event": "NEW WIN",
-      "event_id": "bb17b477-2384-5cb7-82f8-14f0f418b6af",
-      "horse": "Madman",
-      "odds_or_result": "8.50",
-      "race_time": "19:30",
-      "raised_at_utc": "2026-10-07T09:55:36.917601+00:00"
+      "event_id": "3d0a6e8e-94e5-5052-a76b-b1ef81932fe4",
+      "horse": "Thickthorn Tom",
+      "odds_or_result": "3.50",
+      "race_time": "15:41",
+      "raised_at_utc": "2026-10-08T08:05:49.029928+00:00"
     },
     {
-      "course": "Kempton",
+      "course": "Bath",
+      "event": "NEW E/W",
+      "event_id": "4c9dc7af-d76e-5199-85c9-3dbcc930497f",
+      "horse": "She's Ideal",
+      "odds_or_result": "15.00",
+      "race_time": "16:21",
+      "raised_at_utc": "2026-10-08T08:07:28.189449+00:00"
+    },
+    {
+      "course": "Bath",
+      "event": "NEW WIN",
+      "event_id": "5b766b42-3993-566b-b0aa-2f101727567c",
+      "horse": "Boy George",
+      "odds_or_result": "8.00",
+      "race_time": "16:55",
+      "raised_at_utc": "2026-10-08T08:09:38.664794+00:00"
+    },
+    {
+      "course": "Bath",
       "event": "WAS VALUE",
-      "event_id": "68655d84-6bcd-5ad9-94ae-12e3237e9c04",
-      "horse": "Madman",
-      "odds_or_result": "8.50",
-      "race_time": "19:30",
-      "raised_at_utc": "2026-10-07T10:56:44.163756+00:00"
+      "event_id": "7562f8b2-5bea-5ba3-823d-4e4a44b08bdc",
+      "horse": "Dojin",
+      "odds_or_result": "34.00",
+      "race_time": "15:15",
+      "raised_at_utc": "2026-10-08T08:32:15.315909+00:00"
     },
     {
-      "course": "Kempton",
-      "event": "UPDATED",
-      "event_id": "bfd3eb37-c1d2-5d7c-a5fa-fadeeb9c5b0d",
-      "horse": "Madman",
-      "odds_or_result": "8.50",
-      "race_time": "19:30",
-      "raised_at_utc": "2026-10-07T12:15:10.879102+00:00"
+      "course": "Bath",
+      "event": "V1 NEW E/W",
+      "event_id": "853caaa7-218c-5301-ae64-d290c4f5f695",
+      "horse": "Darkened Edge",
+      "odds_or_result": "15.00",
+      "race_time": "14:40",
+      "raised_at_utc": "2026-10-08T09:09:50+00:00"
     },
     {
-      "course": "Kempton",
+      "course": "Bath",
       "event": "WAS VALUE",
-      "event_id": "73e28cb4-7b98-55a5-850c-1dbf039627e0",
-      "horse": "Madman",
-      "odds_or_result": "8.50",
-      "race_time": "19:30",
-      "raised_at_utc": "2026-10-07T14:43:14.252143+00:00"
+      "event_id": "520e5468-d7d2-5532-92d3-cb2d3c02b1bd",
+      "horse": "Boy George",
+      "odds_or_result": "8.00",
+      "race_time": "16:55",
+      "raised_at_utc": "2026-10-08T10:07:11.387291+00:00"
+    },
+    {
+      "course": "Southwell",
+      "event": "V1 NEW E/W",
+      "event_id": "69f421bf-18ce-5405-bcfb-49526c644e3c",
+      "horse": "Jersey Maverick",
+      "odds_or_result": "21.00",
+      "race_time": "20:30",
+      "raised_at_utc": "2026-10-08T10:12:01+00:00"
+    },
+    {
+      "course": "Bath",
+      "event": "V1 NEW E/W",
+      "event_id": "6f12fb15-7aab-5dd9-b7d5-7d5100a32e9e",
+      "horse": "Little Jaybee",
+      "odds_or_result": "9.00",
+      "race_time": "14:40",
+      "raised_at_utc": "2026-10-08T10:12:01+00:00"
     }
   ],
-  "generated_at_utc": "2026-10-07T15:13:11.325257+00:00",
-  "published_at_utc": "2026-10-07T15:20:48.992659+00:00",
-  "racing_date": "2026-10-07",
+  "generated_at_utc": "2026-10-08T11:13:10.061381+00:00",
+  "published_at_utc": "2026-10-08T11:37:39.639347+00:00",
+  "racing_date": "2026-10-08",
   "schema_version": 1
 }
