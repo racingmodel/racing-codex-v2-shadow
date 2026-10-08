@@ -98,10 +98,64 @@
       "odds_or_result": "9.00",
       "race_time": "14:40",
       "raised_at_utc": "2026-10-08T10:12:01+00:00"
+    },
+    {
+      "course": "Thurles",
+      "event": "V1 NEW E/W",
+      "event_id": "09e360a7-6f5b-565c-b0d5-4648a02af36f",
+      "horse": "Princess Chloe",
+      "odds_or_result": "9.00",
+      "race_time": "15:01",
+      "raised_at_utc": "2026-10-08T11:14:35+00:00"
+    },
+    {
+      "course": "Bath",
+      "event": "RESULT",
+      "event_id": "78c5ebda-cd5c-5ca4-959a-4605dec3670f",
+      "horse": "Dojin",
+      "odds_or_result": "LOST",
+      "race_time": "15:15",
+      "raised_at_utc": "2026-10-08T14:26:12.928574+00:00"
+    },
+    {
+      "course": "Market Rasen",
+      "event": "RESULT",
+      "event_id": "8fb13444-6cf1-5a6c-b18f-8cf25044a0dc",
+      "horse": "Thickthorn Tom",
+      "odds_or_result": "LOST",
+      "race_time": "15:41",
+      "raised_at_utc": "2026-10-08T14:56:12.934993+00:00"
+    },
+    {
+      "course": "Thurles",
+      "event": "CLOSE CALL",
+      "event_id": "d595a330-fb57-536c-8c13-811de4137958",
+      "horse": "Cozone",
+      "odds_or_result": "15.00",
+      "race_time": "17:20",
+      "raised_at_utc": "2026-10-08T15:37:33.677025+00:00"
+    },
+    {
+      "course": "Bath",
+      "event": "RESULT",
+      "event_id": "493fb155-8803-5f94-8325-768cf620d7d6",
+      "horse": "She's Ideal",
+      "odds_or_result": "LOST",
+      "race_time": "16:21",
+      "raised_at_utc": "2026-10-08T15:56:12.945977+00:00"
+    },
+    {
+      "course": "Bath",
+      "event": "RESULT",
+      "event_id": "85ec8817-f71e-521f-aaca-5a2597f07b9d",
+      "horse": "Boy George",
+      "odds_or_result": "LOST",
+      "race_time": "16:55",
+      "raised_at_utc": "2026-10-08T16:26:12.960227+00:00"
     }
   ],
-  "generated_at_utc": "2026-10-08T11:13:10.061381+00:00",
-  "published_at_utc": "2026-10-08T11:37:39.639347+00:00",
+  "generated_at_utc": "2026-10-08T19:59:33.080661+00:00",
+  "published_at_utc": "2026-10-08T20:21:56.092684+00:00",
   "racing_date": "2026-10-08",
   "schema_version": 1
 }
