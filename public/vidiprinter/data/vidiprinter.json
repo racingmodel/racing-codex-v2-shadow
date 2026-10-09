@@ -1,161 +1,485 @@
 {
   "events": [
     {
-      "course": "Bath",
+      "course": "Downpatrick",
       "event": "V1 NEW E/W",
-      "event_id": "e73b6d76-7d97-5cd6-9798-a4294a3b2d75",
-      "horse": "She's Ideal",
-      "odds_or_result": "17.00",
-      "race_time": "16:21",
-      "raised_at_utc": "2026-10-07T19:55:17+00:00"
-    },
-    {
-      "course": "Bath",
-      "event": "CLOSE CALL",
-      "event_id": "cb80d46a-529c-5fb2-8b92-89b1f5a5f050",
-      "horse": "Darkened Edge",
-      "odds_or_result": "17.00",
-      "race_time": "14:40",
-      "raised_at_utc": "2026-10-08T08:02:56.628553+00:00"
-    },
-    {
-      "course": "Bath",
-      "event": "NEW E/W",
-      "event_id": "2a77391c-0074-50ce-a50f-e8c4912391a6",
-      "horse": "Dojin",
-      "odds_or_result": "34.00",
-      "race_time": "15:15",
-      "raised_at_utc": "2026-10-08T08:04:40.042842+00:00"
-    },
-    {
-      "course": "Market Rasen",
-      "event": "NEW WIN",
-      "event_id": "3d0a6e8e-94e5-5052-a76b-b1ef81932fe4",
-      "horse": "Thickthorn Tom",
-      "odds_or_result": "3.50",
-      "race_time": "15:41",
-      "raised_at_utc": "2026-10-08T08:05:49.029928+00:00"
-    },
-    {
-      "course": "Bath",
-      "event": "NEW E/W",
-      "event_id": "4c9dc7af-d76e-5199-85c9-3dbcc930497f",
-      "horse": "She's Ideal",
-      "odds_or_result": "15.00",
-      "race_time": "16:21",
-      "raised_at_utc": "2026-10-08T08:07:28.189449+00:00"
-    },
-    {
-      "course": "Bath",
-      "event": "NEW WIN",
-      "event_id": "5b766b42-3993-566b-b0aa-2f101727567c",
-      "horse": "Boy George",
-      "odds_or_result": "8.00",
-      "race_time": "16:55",
-      "raised_at_utc": "2026-10-08T08:09:38.664794+00:00"
-    },
-    {
-      "course": "Bath",
-      "event": "WAS VALUE",
-      "event_id": "7562f8b2-5bea-5ba3-823d-4e4a44b08bdc",
-      "horse": "Dojin",
-      "odds_or_result": "34.00",
-      "race_time": "15:15",
-      "raised_at_utc": "2026-10-08T08:32:15.315909+00:00"
-    },
-    {
-      "course": "Bath",
-      "event": "V1 NEW E/W",
-      "event_id": "853caaa7-218c-5301-ae64-d290c4f5f695",
-      "horse": "Darkened Edge",
-      "odds_or_result": "15.00",
-      "race_time": "14:40",
-      "raised_at_utc": "2026-10-08T09:09:50+00:00"
-    },
-    {
-      "course": "Bath",
-      "event": "WAS VALUE",
-      "event_id": "520e5468-d7d2-5532-92d3-cb2d3c02b1bd",
-      "horse": "Boy George",
-      "odds_or_result": "8.00",
-      "race_time": "16:55",
-      "raised_at_utc": "2026-10-08T10:07:11.387291+00:00"
-    },
-    {
-      "course": "Southwell",
-      "event": "V1 NEW E/W",
-      "event_id": "69f421bf-18ce-5405-bcfb-49526c644e3c",
-      "horse": "Jersey Maverick",
+      "event_id": "1f2758f8-86be-52cc-8abc-772cbf3c1644",
+      "horse": "Fr Gilligansvoyge",
       "odds_or_result": "21.00",
-      "race_time": "20:30",
-      "raised_at_utc": "2026-10-08T10:12:01+00:00"
+      "race_time": "17:37",
+      "raised_at_utc": "2026-10-08T19:59:07+00:00"
     },
     {
-      "course": "Bath",
+      "course": "Chepstow",
       "event": "V1 NEW E/W",
-      "event_id": "6f12fb15-7aab-5dd9-b7d5-7d5100a32e9e",
-      "horse": "Little Jaybee",
-      "odds_or_result": "9.00",
-      "race_time": "14:40",
-      "raised_at_utc": "2026-10-08T10:12:01+00:00"
+      "event_id": "3d91a0e5-8223-509a-b118-49528c83d9b2",
+      "horse": "Raffles Nobu",
+      "odds_or_result": "11.00",
+      "race_time": "16:17",
+      "raised_at_utc": "2026-10-08T19:59:07+00:00"
     },
     {
-      "course": "Thurles",
+      "course": "Chepstow",
       "event": "V1 NEW E/W",
-      "event_id": "09e360a7-6f5b-565c-b0d5-4648a02af36f",
-      "horse": "Princess Chloe",
+      "event_id": "66bb9698-2f3f-5b9b-802b-2917cd1c88f5",
+      "horse": "Prairie Diamond",
+      "odds_or_result": "10.00",
+      "race_time": "16:17",
+      "raised_at_utc": "2026-10-08T19:59:07+00:00"
+    },
+    {
+      "course": "York",
+      "event": "V1 NEW E/W",
+      "event_id": "8e54e9e3-5fec-50a4-9e7a-d7d83edabc5f",
+      "horse": "Final Night",
+      "odds_or_result": "26.00",
+      "race_time": "13:30",
+      "raised_at_utc": "2026-10-08T19:59:07+00:00"
+    },
+    {
+      "course": "York",
+      "event": "V1 NEW E/W",
+      "event_id": "a1ceb811-2cbe-598f-9fa5-4664f12017db",
+      "horse": "Military Leader",
+      "odds_or_result": "34.00",
+      "race_time": "13:30",
+      "raised_at_utc": "2026-10-08T19:59:07+00:00"
+    },
+    {
+      "course": "Chepstow",
+      "event": "V1 NEW E/W",
+      "event_id": "a6dd7e0f-a1b8-5fe8-b589-0935c17b5b8a",
+      "horse": "Hopeful Hero",
+      "odds_or_result": "29.00",
+      "race_time": "15:43",
+      "raised_at_utc": "2026-10-08T19:59:07+00:00"
+    },
+    {
+      "course": "Dundalk",
+      "event": "V1 NEW E/W",
+      "event_id": "e5bb1f7d-5d29-5369-a31b-4efcae958910",
+      "horse": "Profit Surge",
+      "odds_or_result": "34.00",
+      "race_time": "18:30",
+      "raised_at_utc": "2026-10-08T19:59:07+00:00"
+    },
+    {
+      "course": "Chepstow",
+      "event": "V1 NEW E/W",
+      "event_id": "f347c596-2454-5dba-917d-ee356e509c8b",
+      "horse": "Morning Mayhem",
+      "odds_or_result": "23.00",
+      "race_time": "15:12",
+      "raised_at_utc": "2026-10-08T19:59:07+00:00"
+    },
+    {
+      "course": "York",
+      "event": "V1 NEW E/W",
+      "event_id": "00a26751-9cee-58f3-8301-b077ec283233",
+      "horse": "Inspired",
+      "odds_or_result": "11.00",
+      "race_time": "13:30",
+      "raised_at_utc": "2026-10-09T07:51:28+00:00"
+    },
+    {
+      "course": "Kempton",
+      "event": "V1 NEW WIN",
+      "event_id": "0c4ecc69-c927-5b01-aa9d-99619026e94f",
+      "horse": "Meet Me In Meraki",
+      "odds_or_result": "6.00",
+      "race_time": "19:45",
+      "raised_at_utc": "2026-10-09T07:51:28+00:00"
+    },
+    {
+      "course": "Kempton",
+      "event": "V1 NEW E/W",
+      "event_id": "5285563d-b745-59e1-9e58-a0926ca56a64",
+      "horse": "Phoenix Of Dreams",
+      "odds_or_result": "12.00",
+      "race_time": "20:15",
+      "raised_at_utc": "2026-10-09T07:51:28+00:00"
+    },
+    {
+      "course": "Downpatrick",
+      "event": "V1 NEW E/W",
+      "event_id": "d48d6213-cd6e-51d1-b054-5be4c09d9496",
+      "horse": "Kalsman",
+      "odds_or_result": "12.00",
+      "race_time": "17:05",
+      "raised_at_utc": "2026-10-09T07:51:28+00:00"
+    },
+    {
+      "course": "Dundalk",
+      "event": "V1 NEW E/W",
+      "event_id": "dae04049-7735-5927-be6f-51a76c42e466",
+      "horse": "Mickey The Steel",
       "odds_or_result": "9.00",
-      "race_time": "15:01",
-      "raised_at_utc": "2026-10-08T11:14:35+00:00"
+      "race_time": "18:00",
+      "raised_at_utc": "2026-10-09T07:51:28+00:00"
     },
     {
-      "course": "Bath",
-      "event": "RESULT",
-      "event_id": "78c5ebda-cd5c-5ca4-959a-4605dec3670f",
-      "horse": "Dojin",
-      "odds_or_result": "LOST",
-      "race_time": "15:15",
-      "raised_at_utc": "2026-10-08T14:26:12.928574+00:00"
-    },
-    {
-      "course": "Market Rasen",
-      "event": "RESULT",
-      "event_id": "8fb13444-6cf1-5a6c-b18f-8cf25044a0dc",
-      "horse": "Thickthorn Tom",
-      "odds_or_result": "LOST",
-      "race_time": "15:41",
-      "raised_at_utc": "2026-10-08T14:56:12.934993+00:00"
-    },
-    {
-      "course": "Thurles",
-      "event": "CLOSE CALL",
-      "event_id": "d595a330-fb57-536c-8c13-811de4137958",
-      "horse": "Cozone",
-      "odds_or_result": "15.00",
+      "course": "Newmarket",
+      "event": "V1 NEW E/W",
+      "event_id": "e29e4a7d-02a0-52fd-937f-072de0ecb34f",
+      "horse": "The Sweet Escape",
+      "odds_or_result": "17.00",
       "race_time": "17:20",
-      "raised_at_utc": "2026-10-08T15:37:33.677025+00:00"
+      "raised_at_utc": "2026-10-09T07:51:28+00:00"
     },
     {
-      "course": "Bath",
-      "event": "RESULT",
-      "event_id": "493fb155-8803-5f94-8325-768cf620d7d6",
-      "horse": "She's Ideal",
-      "odds_or_result": "LOST",
-      "race_time": "16:21",
-      "raised_at_utc": "2026-10-08T15:56:12.945977+00:00"
+      "course": "Chepstow",
+      "event": "V1 NEW E/W",
+      "event_id": "eb7878d2-bf9c-516e-9a3b-97ea5bf60b2d",
+      "horse": "Adba",
+      "odds_or_result": "9.00",
+      "race_time": "17:31",
+      "raised_at_utc": "2026-10-09T07:51:28+00:00"
     },
     {
-      "course": "Bath",
-      "event": "RESULT",
-      "event_id": "85ec8817-f71e-521f-aaca-5a2597f07b9d",
-      "horse": "Boy George",
-      "odds_or_result": "LOST",
+      "course": "Newmarket",
+      "event": "V1 NEW E/W",
+      "event_id": "ee85ea45-521e-53f3-9247-8f7b3654da12",
+      "horse": "Commander Of Life",
+      "odds_or_result": "17.00",
+      "race_time": "17:20",
+      "raised_at_utc": "2026-10-09T07:51:28+00:00"
+    },
+    {
+      "course": "York",
+      "event": "NEW E/W",
+      "event_id": "3df83cd0-01d5-5947-a545-9593b9ed5386",
+      "horse": "Military Leader",
+      "odds_or_result": "51.00",
+      "race_time": "13:30",
+      "raised_at_utc": "2026-10-09T07:59:29.396953+00:00"
+    },
+    {
+      "course": "Chepstow",
+      "event": "CLOSE CALL",
+      "event_id": "10a71bd2-f4a3-5072-a3ac-76bcf49c7e63",
+      "horse": "Morning Mayhem",
+      "odds_or_result": "19.00",
+      "race_time": "15:12",
+      "raised_at_utc": "2026-10-09T08:02:56.197776+00:00"
+    },
+    {
+      "course": "Chepstow",
+      "event": "CLOSE CALL",
+      "event_id": "b9a2dcff-d336-53b2-b533-534568ca767e",
+      "horse": "Serious Challenge",
+      "odds_or_result": "17.00",
+      "race_time": "15:12",
+      "raised_at_utc": "2026-10-09T08:02:56.197776+00:00"
+    },
+    {
+      "course": "Chepstow",
+      "event": "NEW E/W",
+      "event_id": "9180d92e-d2b7-5d8a-baf9-cc3a48e6aaf3",
+      "horse": "Hopeful Hero",
+      "odds_or_result": "81.00",
+      "race_time": "15:43",
+      "raised_at_utc": "2026-10-09T08:03:57.694146+00:00"
+    },
+    {
+      "course": "Chepstow",
+      "event": "NEW E/W",
+      "event_id": "53c6cc54-9b0e-5e17-a948-ec62278ebd9f",
+      "horse": "Phoenix Risen",
+      "odds_or_result": "21.00",
+      "race_time": "16:17",
+      "raised_at_utc": "2026-10-09T08:05:31.900939+00:00"
+    },
+    {
+      "course": "Kempton",
+      "event": "NEW E/W",
+      "event_id": "e586634e-8a27-582c-a660-731ba96bb8a8",
+      "horse": "Ernie Mccrew",
+      "odds_or_result": "11.00",
+      "race_time": "17:15",
+      "raised_at_utc": "2026-10-09T08:08:53.928359+00:00"
+    },
+    {
+      "course": "Newmarket",
+      "event": "CLOSE CALL",
+      "event_id": "c1d6a7f2-53b0-5184-a836-71cf4223c6d5",
+      "horse": "The Sweet Escape",
+      "odds_or_result": "17.00",
+      "race_time": "17:20",
+      "raised_at_utc": "2026-10-09T08:09:28.081825+00:00"
+    },
+    {
+      "course": "Dundalk",
+      "event": "NEW E/W",
+      "event_id": "9c6b0048-aa16-5e01-88ea-ebf1841bb4ff",
+      "horse": "Profit Surge",
+      "odds_or_result": "41.00",
+      "race_time": "18:30",
+      "raised_at_utc": "2026-10-09T08:11:04.613539+00:00"
+    },
+    {
+      "course": "Kempton",
+      "event": "NEW WIN",
+      "event_id": "a75253f3-185b-52b9-85c4-0196f474e88b",
+      "horse": "Meet Me In Meraki",
+      "odds_or_result": "6.00",
+      "race_time": "19:45",
+      "raised_at_utc": "2026-10-09T08:13:33.379978+00:00"
+    },
+    {
+      "course": "Dundalk",
+      "event": "NEW E/W",
+      "event_id": "fe01b5e7-ba09-55b0-9dd7-d79039902fcf",
+      "horse": "Thompson Gunner",
+      "odds_or_result": "23.00",
+      "race_time": "19:30",
+      "raised_at_utc": "2026-10-09T08:37:53.860844+00:00"
+    },
+    {
+      "course": "Newmarket",
+      "event": "NEW E/W",
+      "event_id": "4b07a9e9-07e5-5da1-82b6-bcb584d4cc9e",
+      "horse": "Scommessa Sicura",
+      "odds_or_result": "34.00",
+      "race_time": "14:57",
+      "raised_at_utc": "2026-10-09T08:57:50.317012+00:00"
+    },
+    {
+      "course": "York",
+      "event": "V1 NEW E/W",
+      "event_id": "3677cdba-630e-54f4-b112-53775059f388",
+      "horse": "Equity Law",
+      "odds_or_result": "17.00",
+      "race_time": "16:25",
+      "raised_at_utc": "2026-10-09T08:58:23+00:00"
+    },
+    {
+      "course": "Chepstow",
+      "event": "WAS VALUE",
+      "event_id": "31fa404c-e85a-56ea-a11f-012c57a977ae",
+      "horse": "Phoenix Risen",
+      "odds_or_result": "21.00",
+      "race_time": "16:17",
+      "raised_at_utc": "2026-10-09T09:00:45.552798+00:00"
+    },
+    {
+      "course": "Kempton",
+      "event": "WAS VALUE",
+      "event_id": "64a15d94-39c8-572a-b5bc-1f9efc8a9737",
+      "horse": "Ernie Mccrew",
+      "odds_or_result": "11.00",
+      "race_time": "17:15",
+      "raised_at_utc": "2026-10-09T09:04:23.009801+00:00"
+    },
+    {
+      "course": "Dundalk",
+      "event": "CLOSE CALL",
+      "event_id": "be7d7db8-b266-5f9c-90ae-fbc756cd17ca",
+      "horse": "Mickey The Steel",
+      "odds_or_result": "9.00",
+      "race_time": "18:00",
+      "raised_at_utc": "2026-10-09T09:06:12.733988+00:00"
+    },
+    {
+      "course": "Newmarket",
+      "event": "WAS VALUE",
+      "event_id": "03a3a4cf-a560-5e8e-9343-95c095b2fc6e",
+      "horse": "Scommessa Sicura",
+      "odds_or_result": "34.00",
+      "race_time": "14:57",
+      "raised_at_utc": "2026-10-09T09:29:21.430561+00:00"
+    },
+    {
+      "course": "Dundalk",
+      "event": "WAS VALUE",
+      "event_id": "02b473f6-2aa3-5f13-98e3-1c51545eb1e7",
+      "horse": "Thompson Gunner",
+      "odds_or_result": "23.00",
+      "race_time": "19:30",
+      "raised_at_utc": "2026-10-09T10:07:03.204559+00:00"
+    },
+    {
+      "course": "Newmarket",
+      "event": "V1 NEW E/W",
+      "event_id": "786fbfef-79d9-5063-99ad-89f3da1da10c",
+      "horse": "Devil's Peak",
+      "odds_or_result": "9.00",
+      "race_time": "15:30",
+      "raised_at_utc": "2026-10-09T10:09:25+00:00"
+    },
+    {
+      "course": "Chepstow",
+      "event": "V1 NEW E/W",
+      "event_id": "b57e3b98-a152-5604-8d23-f130c8e464d9",
+      "horse": "Codetalker",
+      "odds_or_result": "9.00",
       "race_time": "16:55",
-      "raised_at_utc": "2026-10-08T16:26:12.960227+00:00"
+      "raised_at_utc": "2026-10-09T10:09:25+00:00"
+    },
+    {
+      "course": "Newmarket",
+      "event": "UPDATED",
+      "event_id": "ebdfd646-2f6d-58fb-9a8a-c31c473d49fc",
+      "horse": "Scommessa Sicura",
+      "odds_or_result": "29.00",
+      "race_time": "14:57",
+      "raised_at_utc": "2026-10-09T10:30:14.594817+00:00"
+    },
+    {
+      "course": "Chepstow",
+      "event": "UPDATED",
+      "event_id": "ec9dab44-f53c-5931-b12a-2e415451afed",
+      "horse": "Phoenix Risen",
+      "odds_or_result": "23.00",
+      "race_time": "16:17",
+      "raised_at_utc": "2026-10-09T10:33:40.384360+00:00"
+    },
+    {
+      "course": "Dundalk",
+      "event": "UPDATED",
+      "event_id": "d6019d27-f35f-554b-8ed0-f4111a9ba4f1",
+      "horse": "Thompson Gunner",
+      "odds_or_result": "23.00",
+      "race_time": "19:30",
+      "raised_at_utc": "2026-10-09T10:41:19.446109+00:00"
+    },
+    {
+      "course": "Downpatrick",
+      "event": "V1 NEW E/W",
+      "event_id": "759617fe-a1c4-5afb-9220-26b0d2d4093f",
+      "horse": "Down Around",
+      "odds_or_result": "9.00",
+      "race_time": "17:05",
+      "raised_at_utc": "2026-10-09T11:24:53+00:00"
+    },
+    {
+      "course": "Downpatrick",
+      "event": "V1 NEW E/W",
+      "event_id": "9fa12a09-126a-5e5a-8a9a-9334fe73fa5d",
+      "horse": "Hob's Angel",
+      "odds_or_result": "9.00",
+      "race_time": "16:30",
+      "raised_at_utc": "2026-10-09T11:24:53+00:00"
+    },
+    {
+      "course": "Dundalk",
+      "event": "WAS VALUE",
+      "event_id": "a296a9e7-27eb-5698-88e3-66c7ca446c36",
+      "horse": "Thompson Gunner",
+      "odds_or_result": "23.00",
+      "race_time": "19:30",
+      "raised_at_utc": "2026-10-09T12:09:40.618175+00:00"
+    },
+    {
+      "course": "York",
+      "event": "RESULT",
+      "event_id": "def00bb3-e623-52ff-8b5a-bd7e20b083ff",
+      "horse": "Military Leader",
+      "odds_or_result": "LOST",
+      "race_time": "13:30",
+      "raised_at_utc": "2026-10-09T12:52:27.392143+00:00"
+    },
+    {
+      "course": "Newmarket",
+      "event": "WAS VALUE",
+      "event_id": "f01fa8c7-90d4-5a94-93f6-1c55ccf69855",
+      "horse": "Scommessa Sicura",
+      "odds_or_result": "34.00",
+      "race_time": "14:57",
+      "raised_at_utc": "2026-10-09T13:00:00.357866+00:00"
+    },
+    {
+      "course": "Kempton",
+      "event": "UPDATED",
+      "event_id": "c42bac91-296f-55ac-a767-fd3ba5463f57",
+      "horse": "Ernie Mccrew",
+      "odds_or_result": "12.00",
+      "race_time": "17:15",
+      "raised_at_utc": "2026-10-09T13:33:30.579470+00:00"
+    },
+    {
+      "course": "Newmarket",
+      "event": "RESULT",
+      "event_id": "a3f21735-d509-598c-a5b8-5c970bd24d59",
+      "horse": "Scommessa Sicura",
+      "odds_or_result": "LOST",
+      "race_time": "14:57",
+      "raised_at_utc": "2026-10-09T14:22:27.407716+00:00"
+    },
+    {
+      "course": "Chepstow",
+      "event": "RESULT",
+      "event_id": "4f1ba8dc-89ba-5b02-b71d-e97c74ffbff3",
+      "horse": "Hopeful Hero",
+      "odds_or_result": "LOST",
+      "race_time": "15:43",
+      "raised_at_utc": "2026-10-09T15:22:27.431715+00:00"
+    },
+    {
+      "course": "Dundalk",
+      "event": "CLOSE CALL",
+      "event_id": "2e5039b8-1736-5f2f-bcd6-fd349dcb6700",
+      "horse": "Boston Max",
+      "odds_or_result": "8.00",
+      "race_time": "18:30",
+      "raised_at_utc": "2026-10-09T15:33:04.473024+00:00"
+    },
+    {
+      "course": "Chepstow",
+      "event": "RESULT",
+      "event_id": "52552bfc-fee5-5a20-839f-598751d64013",
+      "horse": "Phoenix Risen",
+      "odds_or_result": "LOST",
+      "race_time": "16:17",
+      "raised_at_utc": "2026-10-09T15:52:27.434784+00:00"
+    },
+    {
+      "course": "Kempton",
+      "event": "RESULT",
+      "event_id": "eafbdb7c-3470-513e-9479-138f29bafe12",
+      "horse": "Ernie Mccrew",
+      "odds_or_result": "LOST",
+      "race_time": "17:15",
+      "raised_at_utc": "2026-10-09T16:52:27.443528+00:00"
+    },
+    {
+      "course": "Dundalk",
+      "event": "RESULT",
+      "event_id": "e6362995-0b07-53e4-943a-664ec6aecb43",
+      "horse": "Profit Surge",
+      "odds_or_result": "LOST",
+      "race_time": "18:30",
+      "raised_at_utc": "2026-10-09T17:52:27.462230+00:00"
+    },
+    {
+      "course": "Kempton",
+      "event": "WAS VALUE",
+      "event_id": "a999034c-27f2-5f78-8d26-6155edb22edd",
+      "horse": "Meet Me In Meraki",
+      "odds_or_result": "6.00",
+      "race_time": "19:45",
+      "raised_at_utc": "2026-10-09T18:27:47.351853+00:00"
+    },
+    {
+      "course": "Dundalk",
+      "event": "RESULT",
+      "event_id": "8ef50600-eccd-5b1f-8fdf-71e086089497",
+      "horse": "Thompson Gunner",
+      "odds_or_result": "LOST",
+      "race_time": "19:30",
+      "raised_at_utc": "2026-10-09T18:52:27.481853+00:00"
+    },
+    {
+      "course": "Kempton",
+      "event": "RESULT",
+      "event_id": "0d513786-617d-50c1-a21f-3695f331c479",
+      "horse": "Meet Me In Meraki",
+      "odds_or_result": "LOST",
+      "race_time": "19:45",
+      "raised_at_utc": "2026-10-09T19:22:27.496659+00:00"
     }
   ],
-  "generated_at_utc": "2026-10-08T19:59:33.080661+00:00",
-  "published_at_utc": "2026-10-08T20:21:56.092684+00:00",
-  "racing_date": "2026-10-08",
+  "generated_at_utc": "2026-10-09T20:27:28.171830+00:00",
+  "published_at_utc": "2026-10-09T20:30:32.467073+00:00",
+  "racing_date": "2026-10-09",
   "schema_version": 1
 }
